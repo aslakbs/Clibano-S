@@ -39,4 +39,11 @@ div.navbar a.active{
 }
 div.grid-container{
     display: grid;
+    grid-template-columns: auto auto auto;
+    width: 1005;
+}
+div.photo{
+    width: 40em;
+    height: 30em;
+    background-color: #555;
 }
