@@ -36,7 +36,10 @@ div.navbar a.active{
 }
 .infotext{
     padding: 5em;
+
+    top: 5%;
 }
+
 @media(min-width: 1081px)
 {
 div.grid-container{
@@ -44,6 +47,8 @@ div.grid-container{
     grid-template-columns: 50% 50%;
     width: 100%;
     justify-content: space-evenly;
+    position: absolute;
+    top: 30%;
 }
 }
 @media(max-width: 1080px)
@@ -53,10 +58,34 @@ div.grid-container{
         grid-template-columns: 100%;
         width: 100%;
         justify-content: space-evenly;
-    }  
+    }
 }
 div.photo{
     width: 100%;
     height: 100vw;
     background-color: #555;
+}
+
+.Heading{
+  right: 75%;
+  top: 20%;
+  font-style: italic;
+  color: red;
+}
+
+
+.button {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px;
+    cursor: pointer;
+    position: absolute;
+    top: 80%;
+    right: 75%;
 }
