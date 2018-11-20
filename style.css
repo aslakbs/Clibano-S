@@ -100,11 +100,10 @@ div.photo{
 }
 img#mikro{
     width: 80%;
-    height: 80%;
+    height: auto;
 }
 
 #produktbilde{
   height: 60%;
   width: 60%;
-  align: middle;
 }
