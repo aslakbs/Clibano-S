@@ -26,6 +26,8 @@ div.navbar{
 div.navbar a{
     padding: 1em 1em;
     display: inline-block;
+    text-decoration: none;
+    color:#fff;
 }
 div.navbar a:hover{
     background-color: #555;
@@ -83,4 +85,8 @@ div.photo{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+}
+
+.button:hover{
+    background-color: #000
 }
