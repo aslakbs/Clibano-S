@@ -94,7 +94,7 @@ div.photo{
 }
 img#mikro{
     width: 80%;
-    height: auto;
+    height: 80%;
 }div.img-container{
     display: flex;
     display: -webkit-flex;
