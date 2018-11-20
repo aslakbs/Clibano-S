@@ -102,10 +102,11 @@ div.photo{
 img#mikro{
     width: 80%;
     height: auto;
+    position:static;
 }
 
 img:hover{
-  
+
 }
 
 #produktbilde{
