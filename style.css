@@ -104,6 +104,11 @@ img#mikro{
     height: auto;
 }
 
+img:hover{
+  -webkit-transform: scaleX(-1);
+   transform: scaleX(-1);
+}
+
 #produktbilde{
   height: 60%;
   width: 60%;
