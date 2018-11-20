@@ -93,6 +93,7 @@ div.photo{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    cursor: pointer;
 }
 
 .button:hover{
@@ -111,10 +112,11 @@ img#mikro{
 
 
 input[type=text], select, textarea {
-    width: 100%;
+    width: 90%;
     padding: 12px;
     border: 1px solid #ccc;
     margin-bottom: 16px;
+
 }
 
 input[type=submit] {
@@ -130,7 +132,6 @@ input[type=submit]:hover {
 }
 
 .container {
-    border-radius: 5px;
     background-color: #f2f2f2;
 }
 
@@ -153,4 +154,18 @@ input[type=submit]:hover {
         width: 100%;
         margin-top: 0;
     }
+}
+
+.button2{
+  background-color: gray;
+  color: white;
+  padding: 15px 32px;
+
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button2:hover{
+    background-color: #000
 }
