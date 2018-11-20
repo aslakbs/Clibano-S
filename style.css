@@ -10,7 +10,10 @@ header{
     top: 0;
 }
 header h1{
-    padding: 0.1em 1em;
+    padding: 0.8em 1em;
+    margin: 0;
+    background-color: #000;
+    color: #fff;
 }
 div.navbar{
     position: sticky;
@@ -39,7 +42,6 @@ div.navbar a.active{
 }
 .infotext{
     padding: 5em;
-
     top: 5%;
 }
 
