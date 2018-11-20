@@ -41,7 +41,7 @@ div.navbar a.active{
 
 }
 .infotext{
-    padding: 5em;
+    padding: 2em;
     top: 5%;
 }
 
@@ -64,6 +64,12 @@ div.grid-container{
         width: 100%;
         justify-content: space-evenly;
     }
+    div.img-container{
+        display: flex;
+        display: -webkit-flex;
+        justify-content: center;
+    }
+
 }
 div.photo{
     width: 100%;
@@ -95,8 +101,10 @@ div.photo{
 img#mikro{
     width: 80%;
     height: 80%;
-}div.img-container{
-    display: flex;
-    display: -webkit-flex;
-    justify-content: center;
+}
+
+#produktbilde{
+  height: 60%;
+  width: 60%;
+  align: middle;
 }
