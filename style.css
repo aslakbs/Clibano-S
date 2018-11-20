@@ -89,3 +89,9 @@ div.photo{
     top: 80%;
     right: 75%;
 }
+
+.Mikroforside{
+position:absolute;
+height: 370;
+width: 600;
+}
