@@ -185,17 +185,23 @@ input[type=submit]:hover {
    margin: 0;
 }
 
-#problemtext{
+
+.maintext{
   line-height: 1.7;
+  padding:inherit;
 }
 
 
 #kitchen1{
-  height: 400px;
-  width: 700px;
+  height: 405px;
+  width: 719px;
+  margin: -9px;
+  margin-right: 0px;
 }
 
 #kitchen2{
-  height: 400px;
-  width: 700px;
+  height: 405px;
+  width: 719px;
+  margin: -9px;
+  margin-right: 0px;;
 }
