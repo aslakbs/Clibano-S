@@ -181,10 +181,21 @@ input[type=submit]:hover {
 .column {
    width: 50%;
    padding: 10px;
-   height: 800px;
+   height: 900px;
    margin: 0;
 }
 
 #problemtext{
   line-height: 1.7;
+}
+
+
+#kitchen1{
+  height: 400px;
+  width: 700px;
+}
+
+#kitchen2{
+  height: 400px;
+  width: 700px;
 }
