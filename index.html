@@ -25,65 +25,11 @@
         <a href="OmProduktet.html"><button class="button" type="button">Les mer</button> </a>
     </div>
     <div class="img-container">
-        <img id="mikro" class="responsive" src="microwave.PNG">
+        <img id="mikro" class="responsive" src="microbob.png">
     </div>
 
 
 
-
-
-
-
-  <div class="slideshow-container">
-
-  <div class="mySlides">
-    <q>Trøkk</q>
-    <p class="author">-Random</p>
-  </div>
-
-  <div class="mySlides">
-    <q>bra</q>
-    <p class="author">-Random</p>
-  </div>
-
-  <div class="mySlides">
-    <q>god jul</q>
-    <p class="author">-Random</p>
-  </div>
-
-  <a class="prev" onclick="plusSlides(-1)">❮</a>
-  <a class="next" onclick="plusSlides(1)">❯</a>
-
-
-
-  <script>
-  var slideIndex = 1;
-  showSlides(slideIndex);
-
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slides[slideIndex-1].style.display = "block";
-    dots[slideIndex-1].className += " active";
-  }
-  </script>
 
 
 
