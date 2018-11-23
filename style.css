@@ -238,11 +238,14 @@ color: grey;
 
 
 #GB{
-  height: 30px;
+  height: 1em;
     margin-bottom: -16%;
 }
 
 #NOR{
-  height: 30px;
+  height: 1em;
   margin-bottom: -16%;
+}
+.langchange{
+    float: right;
 }
