@@ -40,6 +40,8 @@ div.navbar a{
 }
 div.navbar a:hover{
     background-color: #b7afa8;
+    transition-duration: 0.3s;
+    -webkit- transition-duration: 0.3s;
 }
 div.navbar a.active{
     background: #76323f;
