@@ -9,4 +9,17 @@ DESCRIBES HOW THE PROBLEM RELATES TO THE SOLUTION THAT YOU HAVE IDENTIFIED
   ....
 
 DESCRIBES WHAT THE SOLUTION IS. DESCRIBE THE SOLUTION/PRODUCT - PAYING PARTICULAR ATTENTION TO THE QUESTIONS ABOVE.
+
+
+
+
+
+
+
+Om produktet:
+Clibano S kommer med talestyring og QR/strekkode-skanner. Ved hjelp av ny teknologi vil skanneren sende nødvendig informasjon til ovnen, og måltidet tilberedes på best mulig vis. Funksjonen er utarbeidet for å gjøre matlaging lettere, og til fordel for eldre. Med Clibano S har du også muligheten til å stille inn varme og tid manuelt, om dette er ønskelig. Ovnen kan styres med tale, og kan respondere med tale, i tillegg til at den har internett tilkobling. Talefunksjonen er laget for å tilgjengeliggjøre kombinasjonsovnen for blinde. Døren har en integrert skjerm som viser den nødvendige informasjonen om måltidet. Den store skjermen fungerer som ovnens display, og er forstørret for tilfredsstille eldres bruk.  Døren viser blant annet temperatur, tid og hvilket program den er satt til. Teknologi som Clibano S tilbyr, bidrar til at du får den informasjonen du ønsker, enten visuelt, eller ved lyd.
+
+Engrish
+Clibano S comes with voice control and QR / barcode scanner. Using new technology, the scanner will send the required information to the oven and prepare the meal in the best possible way. The function is designed to make cooking easier for the benefit of the elderly. Clibano S has the option of manually adjusting heat and time, if desired. The oven can be controlled by voice and can respond with voice, as well as having internet connection. The voice function is made to help elderly with impaired vision. The door has an integrated display showing the necessary information about the meal. The large screen serves as the oven display and is enlarged to satisfy older people's use. The door shows for example, temperature, time and program. The technology that Clibano S offers helps you get the information you want, either visually or by audio.
+
   ....
