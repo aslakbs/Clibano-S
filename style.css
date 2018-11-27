@@ -230,6 +230,8 @@ input[type=submit]:hover {
     width: 103%;
     margin: -9px;
     margin-right: 0px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 1px;
 }
 
 #kitchen2 {
