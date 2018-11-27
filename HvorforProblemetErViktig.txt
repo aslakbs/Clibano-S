@@ -1,25 +1,36 @@
-EXPLAINS WHY THE PROBLEM IS IMPORTANT FROM A SOCIAL OR TECHNOLOGICAL PERSPECTIVE
-
-  Tall fra Statistisk Sentral Byrå viser en økning i forventet levealder og en befolkningsvekst i tiden fremover. Dette vil si at andelen eldre kommer til å bli større, noe som gjør at behovet for årsverk innenfor helse- og omsorgssektoren også øker. Vi blir derfor avhengige at de eldre kan bo hjemme lenger for å ikke overskride kapasiteten til verken sykehjemmene eller pleierne. Derfor blir det viktig å finne løsninger som kan gjøre det enklere for de eldre å være selvstendig hjemmeboende lenger. En faktor som bidrar til at eldre må flytte på sykehjem er at matlagingen blir for krevende. Ferdigmat i mikro blir da ofte en løsning, men her dukker det opp et nytt problem.
-
-  Observasjoner og intervjuer viser til at eldre gjentatte ganger sliter med å lære seg ny teknologi. Med det  får de problemer med å tilberede maten i mikrobølge- og kombiovnene som finnes på dagens marked. Ovnene har som regel for mange knapper og funksjoner som gjør det altfor avansert. Løsningen på dette har til nå vært at hjemmehjelpen må hjelpe brukeren å sette på ovnen når de er innom, samtidig som de prøver å lære brukeren funksjonene. Brukeren tar sjelden lærdom av dette, og ender ofte opp med å måtte vente til pleieren kommer før det kan bli noe middag. Det er derfor viktig at en ser etter en løsning som kan gjøre det enklere og mer brukervennlig for de eldre å tilberede sin egen middag. Her kommer vår smarte kombiovn, Clibano S, inn i bildet.
-
 
 DESCRIBES HOW THE PROBLEM RELATES TO THE SOLUTION THAT YOU HAVE IDENTIFIED
-  ....
-
-DESCRIBES WHAT THE SOLUTION IS. DESCRIBE THE SOLUTION/PRODUCT - PAYING PARTICULAR ATTENTION TO THE QUESTIONS ABOVE.
 
 
 
 
-
-
-
-Om produktet:
+OM PRODUKTET  ///////////////////////
 Clibano S kommer med talestyring og QR/strekkode-skanner. Ved hjelp av ny teknologi vil skanneren sende nødvendig informasjon til ovnen, og måltidet tilberedes på best mulig vis. Funksjonen er utarbeidet for å gjøre matlaging lettere, og til fordel for eldre. Med Clibano S har du også muligheten til å stille inn varme og tid manuelt, om dette er ønskelig. Ovnen kan styres med tale, og kan respondere med tale, i tillegg til at den har internett tilkobling. Talefunksjonen er laget for å tilgjengeliggjøre kombinasjonsovnen for blinde. Døren har en integrert skjerm som viser den nødvendige informasjonen om måltidet. Den store skjermen fungerer som ovnens display, og er forstørret for tilfredsstille eldres bruk.  Døren viser blant annet temperatur, tid og hvilket program den er satt til. Teknologi som Clibano S tilbyr, bidrar til at du får den informasjonen du ønsker, enten visuelt, eller ved lyd.
 
-Engrish
+ENGELSK----------------
 Clibano S comes with voice control and QR / barcode scanner. Using new technology, the scanner will send the required information to the oven and prepare the meal in the best possible way. The function is designed to make cooking easier for the benefit of the elderly. Clibano S has the option of manually adjusting heat and time, if desired. The oven can be controlled by voice and can respond with voice, as well as having internet connection. The voice function is made to help elderly with impaired vision. The door has an integrated display showing the necessary information about the meal. The large screen serves as the oven display and is enlarged to satisfy older people's use. The door shows for example, temperature, time and program. The technology that Clibano S offers helps you get the information you want, either visually or by audio.
 
-  ....
+
+EXPLAINS WHY THE PROBLEM IS IMPORTANT FROM A SOCIAL OR TECHNOLOGICAL PERSPECTIVE ////////////////
+PROBLEMET
+Tall fra Statistisk Sentralbyrå viser en økning i forventet levealder og en befolkningsvekst i tiden fremover. Dette vil si at andelen eldre kommer til å bli større, noe som gjør at behovet for årsverk innenfor helse- og omsorgssektoren også øker. Vi blir derfor avhengige av at de eldre kan bo hjemme lenger for å ikke overskride kapasiteten til verken sykehjemmene eller pleierne. Derfor blir det viktig å finne løsninger som kan gjøre det enklere for de eldre å være selvstendig hjemmeboende lenger. En faktor som bidrar til at eldre må flytte på sykehjem er at matlagingen blir for krevende. Ferdigmat i mikro blir da ofte en løsning, men her dukker det opp et nytt problem.
+
+Observasjoner og intervjuer viser til at eldre gjentatte ganger sliter med å lære seg ny teknologi. Med det får de problemer med å tilberede maten i mikrobølge- og kombiovnene som finnes på dagens marked. Ovnene har som regel for mange knapper og funksjoner som gjør det altfor avansert. Løsningen på dette har til nå vært at hjemmehjelpen må hjelpe brukeren å sette på ovnen når de er innom, samtidig som de prøver å lære brukeren funksjonene. Brukeren tar sjelden lærdom av dette, og ender ofte opp med å måtte vente til pleieren kommer før det kan bli noe middag. Det er derfor viktig at en ser etter en løsning som kan gjøre det enklere og mer brukervennlig for de eldre å tilberede sin egen middag. Her kommer vår smarte kombinasjonsovn, Clibano S, inn i bildet.
+
+ENGELSK--------------
+Numbers from Statistics Norway show an increase in life expectancy and population growth in the future. This means that the amount of elderly will increase, which also increases the need for resources in the health and care sector. We therefore become more dependent on the elders ability to live at home for as long as possible, to avoid exceeding the capacity of nursing homes or available nurses. Therefore, it becomes important to find a solution that can make it easier for the elderly to be independent at home. One reason that elderly gets pushed out of their home and into nursing homes, is because the cooking is too demanding. Preparing food in micro often becomes a solution, but here's a new problem.
+
+Observations and interviews indicate elderly repeatedly struggle to learn new technology. Due to this issue the elderly are prone to encounter trouble preparing their food in the combination oven found in today's market. Standard ovens usually have too many buttons and features that makes it too advanced. The solution is that the homenurses must help the elderly to turn the oven on when they are visiting and try to teach the elderly how to use the oven. The user rarely learns anything from this and often ends up having to wait until the nurse comes. It is therefore important that one looks for a solution that can make it easier and more user-friendly for the elderly to prepare their own food. This is where our smart combination oven, Clibano S, comes into the picture.
+
+
+
+
+DESCRIBES WHAT THE SOLUTION IS. DESCRIBE THE SOLUTION/PRODUCT - PAYING PARTICULAR ATTENTION TO THE QUESTIONS ABOVE.///////////////
+Ved å gjøre Clibano S til en mer brukervennlig kombiovn enn noen annen på markedet, kan den hjelpe til å løse flere problemer innenfor helse og omsorgssektoren. Gjennom undersøkelser har vi sett på hvilke problemer som oppstår hos eldre ved matlaging, samt hvilke svakheter de har. Nedsatt funksjonsevne hører med å bli gammel, og derfor har vi laget en kombinasjonsovn som legger til rette for disse.
+
+Et enkelt brukergrensesnitt vil gi de eldre brukerne friheten til å tilberede sin egen middag, når det måtte passe dem. Tidligere har flere eldre måttet vente på pleieren for at maten skal bli tilberedt, mye på grunn av at flere avanserte funksjoner på ovnene i dagens marked har vært lite brukervennlige. Pleierne vil også få mer tid til overs da de ikke lenger trenger å hjelpe brukeren med å tilberede mat i ovnen. Brukeren kan oppnå hverdagsmestring i viten om at det nå er mulig å spise på egne premisser. Når matlagingen ikke lenger er et problem hos de eldre, er sannsynligheten til stede for at vedkommende kan bo hjemme enda lenger. Dette kan medføre et minkende behov for at eldre blir sendt til allerede overbelastede pleiehjem.
+
+ENGELSK--------------
+By making Clibano S a more user-friendly combi oven than any other on the marked, it can help solve problems within the health and care sector. We have through studies seen what issues arise amongst elders when they cook and identified what weaknesses they have. Reduced functional ability is a part of getting old and that is why we have created a combi oven that facilitates usage for the elders.
+
+A simple user interface will give elders the ability and freedom to cook their own meals, at their leisure. Many elders have often had to wait for their helpers to come prepare the food due to the ovens often being too advanced. The helpers will also have more time to spare if the elders are capable of preparing their own meals. The quality of life for the elder, who can now cook for themselves, is likely to increase due to this. When the issue of elders not being able to cook for themselves is resolved, it will make it possible for this person to live at home for a longer period of time. This can help relieve the load of the already overloaded nursing homes.
