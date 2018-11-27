@@ -69,7 +69,7 @@ div.navbar a.active {
     margin-top: 18em;
 }
 
-@media(min-width: 901px) {
+@media(min-width: 1081px) {
     div.grid-container {
         display: grid;
         grid-template-columns: 50% 50%;
@@ -77,9 +77,10 @@ div.navbar a.active {
         justify-content: space-evenly;
         position: absolute;
     }
+    
 }
 
-@media(max-width: 900px) {
+@media(max-width: 1080px) {
     div.grid-container {
         display: grid;
         grid-template-columns: 100%;
@@ -88,9 +89,8 @@ div.navbar a.active {
     }
 
     div.img-container {
-        display: flex;
-        display: -webkit-flex;
-        justify-content: center;
+        margin-top: 0;
+        margin-left: 5%;
     }
 
 }
