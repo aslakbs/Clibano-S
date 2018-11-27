@@ -129,10 +129,6 @@ div.photo {
 img#mikro {
     width: 75%;
     height: auto;
-<<<<<<< HEAD
-    position:static;
-=======
->>>>>>> Beautify
 
 }
 
@@ -195,16 +191,6 @@ input[type=submit]:hover {
     }
 }
 
-<<<<<<< HEAD
-.button2{
-  background-color: gray;
-  color: white;
-  padding: 15px 32px;
-  display: inline-block;
-  font-size: 16px;
-  cursor: pointer;
-  text-decoration: none;
-=======
 .button2 {
     background-color: gray;
     color: white;
@@ -213,7 +199,6 @@ input[type=submit]:hover {
     display: inline-block;
     font-size: 16px;
     cursor: pointer;
->>>>>>> Beautify
 }
 
 .button2:hover {
