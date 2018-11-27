@@ -69,31 +69,7 @@ div.navbar a.active {
     margin-top: 10em;
 }
 
-@media(min-width: 1081px) {
-    div.grid-container {
-        display: grid;
-        grid-template-columns: 50% 50%;
-        width: 100%;
-        justify-content: space-evenly;
-        position: absolute;
-    }
-    
-}
 
-@media(max-width: 1080px) {
-    div.grid-container {
-        display: grid;
-        grid-template-columns: 100%;
-        width: 100%;
-        justify-content: space-evenly;
-    }
-
-    div.img-container {
-        margin-top: 0;
-        margin-left: 5%;
-    }
-
-}
 
 div.photo {
     width: 100%;
@@ -126,7 +102,7 @@ div.photo {
     background-color: #000
 }
 
-#mikro {
+.bilder {
     margin: 5%;
     margin-top: 10%;
     width: 75%;
@@ -183,15 +159,6 @@ input[type=submit]:hover {
     clear: both;
 }
 
-
-@media screen and (max-width: 600px) {
-
-    .column,
-    input[type=submit] {
-        width: 100%;
-        margin-top: 0;
-    }
-}
 
 .button2 {
     background-color: gray;
