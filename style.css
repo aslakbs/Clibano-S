@@ -15,7 +15,6 @@ header {
 header h1 {
     padding: 0em 0.1em;
     margin: 0;
-    background-color: ;
     color: #222;
     font-family: Futura, sans-serif;
     letter-spacing: 0.1em;
@@ -70,7 +69,6 @@ div.navbar a.active {
         display: grid;
         grid-template-columns: 100%;
         width: 100%;
-        justify-content: space-evenly;
     }
 }
 .infotext {
@@ -269,4 +267,8 @@ input[type=submit]:hover {
 
 .langchange {
     float: right;
+}
+#mikro {
+    width: 100%;
+    height: auto;
 }
