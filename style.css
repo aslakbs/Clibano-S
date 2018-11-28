@@ -71,6 +71,7 @@ div.navbar a.active {
         width: 100%;
     }
 }
+
 .infotext {
     padding: 2em 3em;
     line-height: 1.7;
@@ -260,20 +261,12 @@ input[type=submit]:hover {
     padding: 7px;
 }
 
-
-#GB {
-    height: 1em;
-    margin-bottom: -16%;
-}
-
-#NOR {
-    height: 1em;
-    margin-bottom: -16%;
-}
-
 .langchange {
     float: right;
+    height: 1em;
+    margin-bottom: -16%;
 }
+
 #mikro {
     width: 100%;
     height: auto;
