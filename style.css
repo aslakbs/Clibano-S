@@ -57,6 +57,7 @@ div.navbar a.active {
 
 .infotext {
     padding: 2em 3em;
+    line-height: 1.7;
 }
 
 .infotext div.frontbox {
