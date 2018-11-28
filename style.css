@@ -74,7 +74,6 @@ div.navbar a.active {
 
 .infotext {
     padding: 2em 3em;
-    line-height: 1.7;
 }
 
 .infotext div.frontbox {
@@ -88,26 +87,6 @@ div.navbar a.active {
     margin: auto;
     max-width: 1080px;
 }
-
-.img-container {
-    margin-top: 10em;
-}
-
-
-
-div.photo {
-    width: 100%;
-    height: 100vw;
-    background-color: #555;
-}
-
-.Heading {
-    right: 75%;
-    top: 20%;
-    font-style: italic;
-    color: red;
-}
-
 
 .button {
     background-color: gray;
@@ -129,39 +108,8 @@ div.photo {
 .bilder {
     margin: 5%;
     margin-top: 10%;
-    width: 75%;
+    width: 80%;
     height: auto;
-
-}
-
-
-#produktbilde {
-    height: 60%;
-    width: 60%;
-}
-
-
-
-input[type=text],
-select,
-textarea {
-    width: 90%;
-    padding: 12px;
-    border: 1px solid #ccc;
-    margin-bottom: 16px;
-
-}
-
-input[type=submit] {
-    background-color: orange;
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    cursor: pointer;
-}
-
-input[type=submit]:hover {
-    background-color: grey;
 }
 
 .container {
@@ -170,105 +118,12 @@ input[type=submit]:hover {
     padding: 7px;
 }
 
-.column {
-    float: left;
-    width: 50%;
-    margin-top: 6px;
-    padding: 20px;
-}
-
-
-.row:after {
-    display: table;
-    clear: both;
-}
-
-.button2 {
-    background-color: gray;
-    color: white;
-    padding: 15px 32px;
-
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
-}
-
-.button2:hover {
-    background-color: #000
-}
-
-
-* {
-    box-sizing: border-box;
-}
-
-
-.column {
-    width: 50%;
-    padding: 10px;
-    height: 900px;
-    margin: 0;
-}
-
-
-.maintext {
-    line-height: 1.7;
-    padding: inherit;
-}
-
-
-#kitchen1 {
-    height: 45%;
-    width: 103%;
-    margin: -9px;
-    margin-right: 0px;
-    margin-top: 10px;
-    box-shadow: 1px 1px 1px;
-}
-
-#kitchen2 {
-    height: 45%;
-    width: 103%;
-    margin: -9px;
-    margin-right: 0px;
-    ;
-}
-
 #kontaktoss {
     color: grey;
-}
-
-#takk {
-    text-shadow: 5%;
-    text-align: center;
-}
-
-.button3 {
-    background-color: gray;
-    color: white;
-    padding: 15px 32px;
-
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
-}
-
-.button3:hover {
-    background-color: #000
-}
-
-.ja {
-    padding: 7px;
 }
 
 .langchange {
     float: right;
     height: 1em;
     margin-bottom: -16%;
-}
-
-#mikro {
-    width: 100%;
-    height: auto;
-    margin-top: 25%;
 }
