@@ -78,8 +78,14 @@ div.navbar a.active {
 
 .infotext div.frontbox {
     background: rgba(255, 255, 255, 0.5);
-    padding: 1em;
+    padding: 2em;
     margin: 30px;
+    line-height: 30px;
+}
+
+.textbox {
+    margin: auto;
+    max-width: 1080px;
 }
 
 .img-container {
