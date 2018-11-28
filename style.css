@@ -61,7 +61,7 @@ div.navbar a.active {
         width: 100%;
         justify-content: space-evenly;
     }
-    
+
 }
 
 @media(max-width: 1080px) {
@@ -271,4 +271,5 @@ input[type=submit]:hover {
 #mikro {
     width: 100%;
     height: auto;
+    margin-top: 25%;
 }
