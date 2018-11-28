@@ -55,6 +55,24 @@ div.navbar a.active {
 
 }
 
+@media(min-width: 1081px) {
+    div.grid-container {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    
+}
+
+@media(max-width: 1080px) {
+    div.grid-container {
+        display: grid;
+        grid-template-columns: 100%;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+}
 .infotext {
     padding: 2em 3em;
     line-height: 1.7;
